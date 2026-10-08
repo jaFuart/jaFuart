@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="246" viewBox="0 0 1040 246" role="img" aria-labelledby="title desc">
+<title id="title">maxim. — software engineer</title>
+<desc id="desc">Minimal grayscale typography and a soft halo, designed for the light GitHub theme.</desc>
+<defs>
+  <radialGradient id="halo">
+    <stop offset="0" stop-color="#73757C" stop-opacity=".13" />
+    <stop offset=".48" stop-color="#73757C" stop-opacity=".055" />
+    <stop offset="1" stop-color="#73757C" stop-opacity="0" />
+  </radialGradient>
+</defs>
+<circle cx="866" cy="110" r="190" fill="url(#halo)" />
+<circle cx="866" cy="110" r="76" fill="none" stroke="#8A8D96" stroke-width=".8" stroke-opacity=".26" />
+<text x="12" y="46" fill="#666970" font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="13" letter-spacing="2.5">SOFTWARE ENGINEER</text>
+<text x="4" y="158" fill="#151515" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="123" font-weight="700" letter-spacing="-6">maxim.</text>
+<path d="M12 186 H1024" fill="none" stroke="#C7C9CE" stroke-width="1" />
+<text x="12" y="218" fill="#666970" font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="13" letter-spacing="1.3">BUILDING USEFUL THINGS, QUIETLY.</text>
+</svg>
